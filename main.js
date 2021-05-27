@@ -31,6 +31,7 @@ app.use(express.text());
 app.use(express.static("public"))
 
 app.post("/postgresql/query", async (req, res) => {
+  console.log(DB_HOST, DB_NAME);
   try {
     queryData = await client.query(req.body);
     res.json({
