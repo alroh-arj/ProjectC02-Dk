@@ -70,12 +70,12 @@
 }
 
 .sektor1 {
-  color: #dad3cb;
+  color: #6D6D6D;
   margin-top: 20px;
 }
 
 .sektor2 {
-  color: #6D6D6D;
+  color: #dad3cb;
   margin-top: 5px;
 }
 .undertekstformal_boks {
@@ -100,6 +100,27 @@ padding: 70px;
   margin-top: -80px;
 }
 
+.beige {
+  background-color: #dad3cb;
+  width: 10%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+margin-bottom: 5px;
+
+}
+
+.grey {
+  background-color: #6D6D6D;
+  width: 10%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
 /*footer*/
 
 

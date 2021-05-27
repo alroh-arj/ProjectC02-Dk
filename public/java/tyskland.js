@@ -17,7 +17,7 @@ var xValues = ["Danmark", "Tyskland"];
       legend: {display: false},
       title: {
         display: true,
-        text: "Danmark og Tyskland Co2-udslip"
+        text: "Danmark og Tyskland Co2-udslip i tons"
   
       }
     }

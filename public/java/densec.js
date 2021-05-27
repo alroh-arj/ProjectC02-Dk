@@ -17,7 +17,7 @@ var xValues = ["Electricity & Heat", "Electricity & Heat", "Transport (internal)
       legend: {display: false},
       title: {
         display: true,
-        text: "Danmark og Sveriges Co2-udslip opdelt i sektor"
+        text: "Danmark og Sveriges Co2-udslip i tons opdelt i sektor"
   
       }
     }
