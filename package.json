@@ -1,0 +1,23 @@
+{
+  "name": "1-semester-projekt",
+  "version": "1.0.0",
+  "description": "Tværfaglige projekt (1 semester)",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lassebomh/1-semester-projekt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lassebomh/1-semester-projekt/issues"
+  },
+  "homepage": "https://github.com/lassebomh/1-semester-projekt#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}
