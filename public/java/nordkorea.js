@@ -1,5 +1,5 @@
 var xValues = ["Danmark", "Nordkorea"];
-  var yValues = [6.057599, 0.855446];
+  var yValues = [6.057599, 0.855446, 0];
   var barColors = ["#dad3cb", "#6D6D6D"];
   
    
@@ -17,7 +17,7 @@ var xValues = ["Danmark", "Nordkorea"];
       legend: {display: false},
       title: {
         display: true,
-        text: "Danmark og Ruslands Co2-udslip i tons"
+        text: "Danmark og Nordkoreas Co2-udslip i tons"
   
       }
     }

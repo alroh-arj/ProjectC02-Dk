@@ -10,7 +10,7 @@ var xValues = ["Electricity & Heat", "Electricity & Heat", "Transport (internal)
       labels: xValues,
       datasets: [{
         backgroundColor: barColors,
-        data: yValues
+        data: yValues,
       }]
     },
     options: {

@@ -1,6 +1,6 @@
-var xValues = ["Danmark", "Tyskland"];
-  var yValues = [6.057599, 9.51698];
-  var barColors = ["#dad3cb", "#6D6D6D"];
+var xValues = ["Danmark", "Tyskland", ];
+  var yValues = [6.057599, 9.51698, 0];
+  var barColors = ["#dad3cb", "#6D6D6D", ];
   
    
   

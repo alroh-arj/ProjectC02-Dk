@@ -1,6 +1,6 @@
 
   var xValues = ["Danmark", "Rusland"];
-  var yValues = [6.057599 , 11.311618];
+  var yValues = [6.057599 , 11.311618, 0];
   var barColors = ["#dad3cb", "#6D6D6D"];
   
    

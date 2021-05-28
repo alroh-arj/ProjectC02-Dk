@@ -1,5 +1,5 @@
 var xValues = ["Danmark", "Sverige"];
-  var yValues = [6.057599, 4.271259];
+  var yValues = [6.057599, 4.271259, 0];
   var barColors = ["#dad3cb", "#6D6D6D"];
 
    
@@ -17,7 +17,7 @@ var xValues = ["Danmark", "Sverige"];
       legend: {display: false},
       title: {
         display: true,
-        text: "Danmark og Ruslands Co2-udslip i tons"
+        text: "Danmark og Sveriges Co2-udslip i tons"
   
       }
     }
